@@ -1,5 +1,5 @@
 # Subdomins
-get all live subdomains for the Domain ,
+Get all live subdomains for the Domain ,
 How its work:
 1- install 'go' to your kali linux.
 2- install 'assetfinder'  "https://github.com/tomnomnom/assetfinder".
